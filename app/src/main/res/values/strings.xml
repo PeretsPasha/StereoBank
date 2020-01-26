@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StereoBank</string>
+    <string name="title_home">Головна</string>
+    <string name="title_dashboard">Карта</string>
+    <string name="title_notifications">Депозит</string>
+    <string name="title_cash">Кешбек</string>
+</resources>

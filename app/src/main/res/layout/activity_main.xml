@@ -22,7 +22,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="how it works?"
+        android:text="how it works? \n Or..."
         android:gravity="center"
 
         />

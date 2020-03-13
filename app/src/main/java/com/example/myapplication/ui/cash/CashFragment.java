@@ -17,7 +17,7 @@ import com.example.myapplication.R;
 
 public class CashFragment extends Fragment {
 
-    Button button;
+
 
 
 

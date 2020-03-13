@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:text="how it works? Discovery chanel"
+        android:text="how it works? Discovery chanel \n Hard system"
 
         tools:layout_editor_absoluteY="56dp" />
 
